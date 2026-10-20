@@ -1,6 +1,6 @@
 Hey, I'm Jake. 👋
 
-I'm a product engineer in Pittsburgh building software for media, ads, and AI. I run [Hatchway](https://hatchway.ai), where I consult on software at the intersection of media and AI. Previously, I built products at Eventbrite and ToneDen.
+I'm a product engineer in Pittsburgh building software for media, ads, and AI. Previously, I built products at Eventbrite and ToneDen.
 
 Some of my work:
 
